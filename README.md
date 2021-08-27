@@ -2,9 +2,9 @@
 
 ![logo](http://4.bp.blogspot.com/_PBTMDZy9U-w/THxWH21C15I/AAAAAAAABhw/VfBTdfQmFLI/s1600/tapa+poke.JPG)
 
-- introducion 
-- historia
-- novedades
+-  [introducion](introducion)
+- [historia](historia)
+- [novedades](mododejuego)
 
 #### `introducion`
 
